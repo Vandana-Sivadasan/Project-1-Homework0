@@ -11,7 +11,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     padding: 100px;
-    margin: 50px;
+    margin: 5px;
     max-width: none;
     
     
@@ -23,12 +23,13 @@ body {
   
     /* Box-model */
     min-height: 100%;
+  
   }
   
   /* add space for fixed nav */
 
   main {
-    margin: 50px 0;
+    margin: 20px;
   }
   
   /* create styles for use for all white main boxes */
@@ -49,9 +50,13 @@ body {
   /* NAV START */
   
   #logo {
+    font-size:larger ;
     text-align: left; 
-    color: brown;
+    color: black;
   }
+  
+
+
   
   /* END NAV */
   
@@ -120,7 +125,7 @@ body {
     /* Typography */
     font-size: 32px;
     font-weight: bold;
-    color: brown;
+    color: black;
     
   }
   
@@ -145,9 +150,10 @@ body {
   .form     {
     padding: 20px;
     margin: 20px;
-    min-width: 500%;
-    max-width: 500%;
-    color: brown;
+    min-width: 1000%;
+    max-width: 1000%;
+    color: black;
+    text-decoration-color: black;
   }
   
   .submit-btn {
