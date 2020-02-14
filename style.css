@@ -50,12 +50,16 @@ body {
   /* NAV START */
   
   #logo {
-    font-size:larger ;
+    font-weight: bold;
+    font-size: xx-large ;
     text-align: left; 
     color: black;
   }
   
-
+   #ul {
+      text-align: right;
+      color: black;
+   }
 
   
   /* END NAV */
