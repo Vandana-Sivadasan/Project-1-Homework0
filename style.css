@@ -177,6 +177,11 @@ body {
   .submit-btn:hover {
     opacity: .7;
   }
+
   
   /* END CONTACT FORM PAGE */
+  .links {
+    text-align: center;
+    color: black;
+  }
     
